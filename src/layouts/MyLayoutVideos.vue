@@ -208,7 +208,7 @@ opacity: 0.2;
 .footerIguess{
   background-color:#E4E4E4;
   width: auto;
-  height: 65px;
+  height: 50px;
 }
 
 .backgroundFooterIcon{
