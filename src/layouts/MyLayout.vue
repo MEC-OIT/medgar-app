@@ -57,45 +57,46 @@
           </div>
         </q-item>
           <q-item-separator inset dark />
-          <q-item class="forcedMeLess" @click.native="openURL('http://quasar-framework.org')">
+          <q-item class="forcedMeLess" >
             <div class="q-subheading" >
               E - Emergency
             </div>
           </q-item>
           <q-item-separator inset dark />
-          <q-item class="forcedMeLess" @click.native="openURL('http://quasar-framework.org')">
+          <q-item class="forcedMeLess" >
             <div class="q-subheading" >
               D - Desitination
             </div>
           </q-item>
           <q-item-separator inset dark />
-          <q-item class="forcedMeLess" @click.native="openURL('http://quasar-framework.org')">
+          <q-item class="forcedMeLess" >
             <div class="q-subheading" >
               G - Gallery
             </div>
           </q-item>
           <q-item-separator inset dark />
-          <q-item class="forcedMeLess" @click.native="openURL('http://quasar-framework.org')">
+          <q-item class="forcedMeLess" >
             <div class="q-subheading" >
               A - Activities
             </div>
           </q-item>
           <q-item-separator inset dark />
-          <q-item class="forcedMeLess" @click.native="openURL('http://quasar-framework.org')">
+          <q-item class="forcedMeLess" >
             <div class="q-subheading" >
               R - Resources
             </div>
           </q-item>
           <q-item-separator inset dark />
-          <q-item class="forcedMeLess" @click.native="openURL('http://quasar-framework.org')">
+          <q-btn @click="$router.push('/')">
+          <q-item class="forcedMeLess"">
             <div class="q-subheading" >
               Log out
             </div>
           </q-item>
-
-          <img class="meccyLogo"src="statics/images/mec_logo.png" alt="">
-
+        </q-btn>
       </q-list>
+
+      <img class="meccyLogo"src="statics/images/mec_logo.png" alt="">
     </q-layout-drawer>
 
     <q-layout-footer v-model="footer">
