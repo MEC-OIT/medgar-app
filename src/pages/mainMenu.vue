@@ -189,7 +189,7 @@ export default {
 }
 
 .mainMenuScreen{
-background: url('/statics/images/app_home_background.png') no-repeat;
+background: url('/statics/images/mec_library-janky-edit.jpg') no-repeat;
 height: 100%;
 width: 100%;
 background-size: cover;
