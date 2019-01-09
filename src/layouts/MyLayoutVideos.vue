@@ -96,10 +96,9 @@
             </div>
           </q-item>
         </q-btn>
-
-          <img class="meccyLogo"src="statics/images/mec_logo.png" alt="">
-
       </q-list>
+
+      <img class="meccyLogo"src="statics/images/mec_logo.png" alt="">
     </q-layout-drawer>
 
     <q-layout-footer v-model="footer">
