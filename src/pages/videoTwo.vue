@@ -28,12 +28,13 @@
 
          <div class="row justify-around" style="background-color:#F6F6F9;">
             <div class="col-6">
+
               <q-card inline class="q-ma-sm">
                 <q-card-media>
                   <img class=""src="statics/images/img1c.png">
                 </q-card-media>
                 <q-card-title>
-                  Courgas win...
+                  Courgars...
                 <q-rating size='12px' v-model="stars" :max="5"  />
               </q-card-title>
             </q-card>
@@ -60,15 +61,17 @@
             </div>
 
             <div class="col-6">
-              <q-card inline class="">
+
+              <q-card inline class="q-ma-sm">
                 <q-card-media>
                   <img class=""src="statics/images/img2c.png">
                 </q-card-media>
                 <q-card-title>
-                  Commencement...
+                  Courgas...
                 <q-rating size='12px' v-model="stars" :max="5"  />
               </q-card-title>
             </q-card>
+
             <q-card inline class="q-ma-sm">
               <q-card-media>
                 <img class=""src="statics/images/img5d.png">
@@ -78,15 +81,17 @@
               <q-rating size='12px' v-model="stars" :max="5"  />
             </q-card-title>
           </q-card>
+
           <q-card inline class="q-ma-sm">
             <q-card-media>
-              <img class=""src="statics/images/img2c.png">
+              <img class=""src="statics/images/img1c.png">
             </q-card-media>
             <q-card-title>
-              Courgas win...
+              Courgas...
             <q-rating size='12px' v-model="stars" :max="5"  />
           </q-card-title>
         </q-card>
+
             </div>
          </div>
          <q-btn
