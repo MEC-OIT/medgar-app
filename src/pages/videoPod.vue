@@ -1,13 +1,13 @@
 <template>
-  <q-page padding>
+  <q-page padding class="windowPls">
     <!-- content -->
     <div class="">
       <h1>PODCASTS</h1>
     </div>
-<div class="q-mx-lg">
+<div class="q-mx-lg ">
   President Dr. Rudy Crew meets with Former President of South Africa Kgalema Motlanthe
 </div>
-    <q-card inline class="q-ma-sm">
+    <q-card inline class="q-ma-sm windowPls">
           <q-card-main>
             <q-card-media>
               <img src="statics/images/mec_logo.png" height=""width="">
@@ -47,4 +47,8 @@
 .q-btn.q-px-lg{
   width:100px;
 }
+
+.windowPls {
+    max-width: 90vh !important;
+  }
 </style>
