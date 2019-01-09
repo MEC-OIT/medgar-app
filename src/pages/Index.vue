@@ -10,7 +10,7 @@
 
 
       <div class="text-white">
-        <div class="q-headline text-center q-mt-xl ">
+        <div class="text-sized-you text-center q-mt-xl ">
           Medgar Evers College, CUNY
         </div>
         <div class="q-subheading text-center q-mt-md">
@@ -60,5 +60,9 @@ background-size: cover;
 .q-btn{
   -webkit-box-shadow: none;
    box-shadow:none;
+}
+
+.text-sized-you{
+  font-size: 20px;
 }
 </style>
