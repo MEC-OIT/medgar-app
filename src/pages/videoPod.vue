@@ -10,7 +10,7 @@
     <q-card inline class="q-ma-sm">
           <q-card-main>
             <q-card-media>
-              <img src="statics/images/mec_logo.png" height=""width="auto">
+              <img src="statics/images/mec_logo.png" height=""width="">
             </q-card-media>
             <q-card-title>
 
