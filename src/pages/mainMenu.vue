@@ -219,7 +219,7 @@ q-btn.stop{
 padding: 0;
 -webkit-box-shadow: none;
 box-shadow: none;
-font-size: 13px;
+font-size: 10px;
 font-weight: normal;
 margin-top:5px;
 }
