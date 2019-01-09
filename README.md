@@ -1,3 +1,3 @@
-# Quasar App
+# Medgar Evers College APP
 
 > WIP
