@@ -89,13 +89,13 @@
             </div>
           </q-item>
           <q-item-separator inset dark />
-          <q-side-link item to="/">
+          <q-btn @click="$router.push('/')">
           <q-item class="forcedMeLess"">
             <div class="q-subheading" >
               Log out
             </div>
           </q-item>
-            </q-side-link>
+        </q-btn>
 
           <img class="meccyLogo"src="statics/images/mec_logo.png" alt="">
 
