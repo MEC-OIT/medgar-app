@@ -60,7 +60,7 @@
             </div>
 
             <div class="col-6">
-              <q-card inline class="q-ma-sm">
+              <q-card inline class="">
                 <q-card-media>
                   <img class=""src="statics/images/img2c.png">
                 </q-card-media>
