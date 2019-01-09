@@ -1,7 +1,7 @@
 <template>
   <q-page padding class="windowPls">
     <!-- content -->
-    <div class="">
+    <div class="q-headline">
       <h1>PODCASTS</h1>
     </div>
 <div class="q-mx-lg ">

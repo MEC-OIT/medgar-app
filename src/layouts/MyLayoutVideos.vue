@@ -90,7 +90,7 @@
           </q-item>
           <q-item-separator inset dark />
           <q-btn @click="$router.push('/')">
-          <q-item class="forcedMeLess"">
+          <q-item class="forcedMeLess">
             <div class="q-subheading" >
               Log out
             </div>
@@ -98,7 +98,7 @@
         </q-btn>
       </q-list>
 
-      <img class="meccyLogo"src=statics/images/mec_logo.png" alt="">
+      <img class="meccyLogo"src="statics/images/mec_logo.png" alt="">
     </q-layout-drawer>
 
     <q-layout-footer v-model="footer">
