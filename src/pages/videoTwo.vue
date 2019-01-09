@@ -170,6 +170,6 @@ export default {
   }
 
 .windowPls {
-    width: 90vh !important;
+    max-width: 90vh !important;
   }
 </style>

@@ -88,7 +88,7 @@
           </q-item>
           <q-item-separator inset dark />
           <q-btn @click="$router.push('/')">
-          <q-item class="forcedMeLess"">
+          <q-item class="forcedMeLess">
             <div class="q-subheading" >
               Log out
             </div>
