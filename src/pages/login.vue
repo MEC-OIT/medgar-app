@@ -70,7 +70,7 @@ background-position: center;
 }
 
 .spaceForce2{
-  margin-top:;
+  margin-top:-20px;
 }
 
 
