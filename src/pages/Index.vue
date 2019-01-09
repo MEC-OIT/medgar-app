@@ -63,6 +63,6 @@ background-size: cover;
 }
 
 .text-sized-you{
-  font-size: 20px;
+  font-size: 17px;
 }
 </style>
