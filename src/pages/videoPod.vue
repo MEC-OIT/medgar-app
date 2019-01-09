@@ -45,6 +45,6 @@
 
 <style>
 .q-btn.q-px-lg{
-  width:50px;
+  width:100px;
 }
 </style>

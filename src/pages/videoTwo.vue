@@ -1,5 +1,5 @@
 <template>
-  <q-page>
+  <q-page class="windowPls">
     <!-- content -->
     <div class="relative-position forcedMe text-center">
       <img class="avatar2 "src="statics/images/obama.jpg" alt="">
@@ -167,5 +167,9 @@ export default {
     margin-top:15px;
     margin-bottom:15px;
     color:#FFCD07 !important;
+  }
+
+.windowPls {
+    width: 90vh !important;
   }
 </style>
