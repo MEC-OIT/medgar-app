@@ -49,7 +49,7 @@ background-size: cover;
 
 .mec-logo_splashScreen{
   border-radius: 10px;
-  margin-bottom:-40vh;
+  margin-bottom:-30vh;
   height: 20vh;
   width: auto;
 }
