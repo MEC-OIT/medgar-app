@@ -155,8 +155,7 @@ export default {
   }
 
   .image-size-2{
-    width: auto;
-    height: 75px;
+
   }
 
   .q-btn.fiddleButton{
