@@ -10,14 +10,14 @@
 
 
       <div class="text-white">
-        <div class="text-sized-you text-center q-mt-xl ">
+        <div class="q-subheading text-center q-mt-xl ">
           Medgar Evers College, CUNY
         </div>
-        <div class="q-subheading text-center q-mt-md">
+        <div class="q-body-2 text-center q-mt-md">
           STUDENT LIFE AT YOUR <br>
           FINGERTIPS
         </div>
-        <div class="text-center q-mt-lg q-mx-lg">
+        <div class="q-caption text-center q-mt-lg q-mx-lg">
           Our Central Brooklyn campus, just steps away from
           the Brooklyn Botanical Garden and the Brooklyn
           Museum, is in the midst of the borough’s cultural and
@@ -62,7 +62,5 @@ background-size: cover;
    box-shadow:none;
 }
 
-.text-sized-you{
-  font-size: 17px;
-}
+
 </style>
