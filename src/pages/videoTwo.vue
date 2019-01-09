@@ -80,7 +80,7 @@
           </q-card>
           <q-card inline class="q-ma-sm">
             <q-card-media>
-              <img class=""src="statics/images/img1c.png">
+              <img class=""src="statics/images/img2c.png">
             </q-card-media>
             <q-card-title>
               Courgas win...
