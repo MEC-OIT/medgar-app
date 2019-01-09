@@ -10,7 +10,7 @@
           <q-btn class="stop">
           <img
           class="menu-box-image-style"
-          src="statics/images/icons/bus.png"
+          src="statics/images/icons/Bus.png"
           alt="">
           <p class="stoped text-white">Bus Tracker</p>
           </q-btn>
@@ -50,7 +50,7 @@
           <q-btn class="stop">
           <img
           class="menu-box-image-style"
-          src="statics/images/icons/Course-assign-filled.png"
+          src="statics/images/icons/course-assign-filled.png"
           alt="">
           <p class="stoped text-white">Courses</p>
           </q-btn>
@@ -118,7 +118,7 @@
           <q-btn class="stop">
           <img
           class="menu-box-image-style"
-          src="statics/images/icons/Podcast_2.png"
+          src="statics/images/icons/tower.png"
           alt="">
           <p class="stoped text-white">Radio</p>
           </q-btn>
@@ -158,7 +158,7 @@
           <q-btn class="stop">
           <img
           class="menu-box-image-style"
-          src="statics/images/icons/donate_3.png"
+          src="statics/images/icons/Donate_3.png"
           alt="">
           <p class="stoped text-white">Donate</p>
           </q-btn>
