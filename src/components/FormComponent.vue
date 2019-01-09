@@ -22,7 +22,7 @@
           class=" spaceForce "
           rounded
           type="submit"
-          style="width:40vh"
+          style="width:200px;"
         />
       </div>
     </form>
