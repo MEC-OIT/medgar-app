@@ -154,7 +154,9 @@ export default {
 .avatarPush{
   margin-left: 2vh;
 }
-
+p.q-caption{
+  margin-top:0px;
+}
 img.avatar{
   width: 75px !important;
   height: 75px !important;
@@ -204,16 +206,16 @@ opacity: 0.2;
 .footerIguess{
   background-color:#E4E4E4;
   width: auto;
-  height: 65px;
+  height: 50px;
 }
 
 .backgroundFooterIcon{
 color: black !important;
 }
 .footerIcon{
-  height: 30px;
+  height: 25px;
   width: auto;
-  margin:5px;
+  margin-top:5px;
 }
 .headerStyle{
 background-color: #646464;

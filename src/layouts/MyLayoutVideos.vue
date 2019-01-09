@@ -161,7 +161,9 @@ img.avatar{
   width: 75px !important;
   height: 75px !important;
 }
-
+p.q-caption{
+  margin-top:0px;
+}
 .q-chip-dense {
     min-height: 1px;
     padding:5px 8px;
@@ -213,9 +215,9 @@ opacity: 0.2;
 color: black !important;
 }
 .footerIcon{
-  height: 30px;
+  height: 25px;
   width: auto;
-  margin:5px;
+  margin-top:5px;
 }
 .headerStyle{
 background-color:white;
