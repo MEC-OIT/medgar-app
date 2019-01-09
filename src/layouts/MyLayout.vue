@@ -147,7 +147,7 @@ export default {
   top:auto !important;
   right:auto !important;
   bottom: 0;
-  left: 7vh;
+  left: 9vh;
   border-radius: 100%;
 }
 
@@ -164,7 +164,7 @@ img.avatar{
 
 .q-chip-dense {
     min-height: 1px;
-    padding:5px 8px;
+    padding:2px 6px;
     font-size: 12px;
     background-color:#393939;
     color: #FFD700;
