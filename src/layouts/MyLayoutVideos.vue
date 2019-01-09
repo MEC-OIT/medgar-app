@@ -59,41 +59,43 @@
         </q-btn>
         </q-item>
           <q-item-separator inset dark />
-          <q-item class="forcedMeLess" @click.native="openURL('http://quasar-framework.org')">
+          <q-item class="forcedMeLess" >
             <div class="q-subheading" >
               E - Emergency
             </div>
           </q-item>
           <q-item-separator inset dark />
-          <q-item class="forcedMeLess" @click.native="openURL('http://quasar-framework.org')">
+          <q-item class="forcedMeLess" >
             <div class="q-subheading" >
               D - Desitination
             </div>
           </q-item>
           <q-item-separator inset dark />
-          <q-item class="forcedMeLess" @click.native="openURL('http://quasar-framework.org')">
+          <q-item class="forcedMeLess">
             <div class="q-subheading" >
               G - Gallery
             </div>
           </q-item>
           <q-item-separator inset dark />
-          <q-item class="forcedMeLess" @click.native="openURL('http://quasar-framework.org')">
+          <q-item class="forcedMeLess" >
             <div class="q-subheading" >
               A - Activities
             </div>
           </q-item>
           <q-item-separator inset dark />
-          <q-item class="forcedMeLess" @click.native="openURL('http://quasar-framework.org')">
+          <q-item class="forcedMeLess" >
             <div class="q-subheading" >
               R - Resources
             </div>
           </q-item>
           <q-item-separator inset dark />
-          <q-item class="forcedMeLess" @click.native="openURL('http://quasar-framework.org')">
+          <q-side-link item to="/">
+          <q-item class="forcedMeLess"">
             <div class="q-subheading" >
               Log out
             </div>
           </q-item>
+            </q-side-link>
 
           <img class="meccyLogo"src="statics/images/mec_logo.png" alt="">
 

@@ -132,7 +132,7 @@
           class="menu-box-image-style"
           src="statics/images/icons/calendar.png"
           alt="">
-          <p class="stoped text-white">Calander</p>
+          <p class="stoped text-white">Calendar</p>
           </q-btn>
         </div>
 
