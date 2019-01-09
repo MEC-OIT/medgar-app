@@ -51,4 +51,8 @@
 .windowPls {
     max-width: 90vh !important;
   }
+
+audio{
+    max-width: 90vh !important;
+  }
 </style>
