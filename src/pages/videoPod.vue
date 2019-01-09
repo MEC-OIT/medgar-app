@@ -2,7 +2,7 @@
   <q-page padding class="windowPls">
     <!-- content -->
     <div class="q-headline">
-      <h1>PODCASTS</h1>
+      <h1 class="q-headline">PODCASTS</h1>
     </div>
 <div class="q-mx-lg ">
   President Dr. Rudy Crew meets with Former President of South Africa Kgalema Motlanthe
