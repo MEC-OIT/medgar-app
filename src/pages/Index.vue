@@ -69,7 +69,7 @@ background-size: cover;
 }
 .q-caption.hello {
   text-transform: none;
-  margin-top:55px;
+  margin-top:75px;
 }
 
 .smackMeDown{
