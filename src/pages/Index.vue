@@ -20,10 +20,10 @@
           </div>
         </div>
 
-        <div class="q-caption hello text-center q-mt-lg q-mx-lg">
-          Our Central Brooklyn campus, just steps away from
+        <div class="q-caption hello text-center q-mt-lg q-mx-lg text-weight-light">
+          Just steps away from
           the Brooklyn Botanical Garden and the Brooklyn
-          Museum, is in the midst of the borough’s cultural and
+          Museum, Medgar is in the midst of the borough’s cultural and
           economic renaissance.
         </div>
       </div>
