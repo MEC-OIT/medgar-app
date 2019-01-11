@@ -4,6 +4,7 @@ import MainMenu from 'pages/mainMenu'
 import Podcast from 'pages/podcast'
 import VideoPod from 'pages/videoPod'
 import VideoTwo from 'pages/videoTwo'
+import VideoTwo from 'pages/testPage1'
 
 
 
@@ -20,6 +21,13 @@ const routes = [
       component: () => import('layouts/splashScreenLayout.vue'),
       children: [
         { path: '', component: () => import('pages/splashScreen.vue') }
+      ],
+    },
+    {
+      path: '/testPage1',
+      component: () => import('layouts/testPageLayout.vue'),
+      children: [
+        { path: '', component: () => import('pages/testPage1.vue') }
       ],
     },
     {
