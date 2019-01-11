@@ -64,7 +64,8 @@ module.exports = function (ctx) {
         'QCardMedia',
         'QCardSeparator',
         'QCardActions',
-        'QRating'
+        'QRating',
+        'QInfiniteScroll'
       ],
       directives: [
         'Ripple'
