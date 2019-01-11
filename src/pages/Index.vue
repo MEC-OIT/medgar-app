@@ -13,7 +13,7 @@
         <div class="q-subheading text-center q-mt-xl text-weight-bold">
           Medgar Evers College, CUNY
         </div>
-        <div class="q-body-2 text-weight-light text-center q-mt-md q-mb-lg">
+        <div class="q-captiontext-weight-light text-center q-mt-sm q-mb-lg">
           STUDENT LIFE AT YOUR <br>
           FINGERTIPS
         </div>
