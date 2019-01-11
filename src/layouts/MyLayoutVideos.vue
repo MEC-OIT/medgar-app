@@ -39,15 +39,15 @@
         </div>
         <div class="forceMe">
           <div class="q-headline">
-            Dr. Rudy Crew
+            Daniel Alvarez
           </div>
 
           <div class="colorMe">
-            CLASS OF YYYY{{YEAR}}
+            CLASS OF 2019{{YEAR}}
           </div>
 
           <div class="" style="margin-bottom:5vh;">
-            rcrew@mec.cuny.edu
+            emily.daniels@gmail.com
           </div>
         </div>
 
@@ -231,11 +231,7 @@ color: black !important;
   margin-left:50px;
 }
 
-.avatar2{
-  height: 150px;
-  width: 150px;
-  border-radius: 100%;
-}
+
 
 .q-btn{
   -webkit-box-shadow: none;

@@ -20,11 +20,14 @@
           </div>
         </div>
 
-        <div class="q-caption hello text-center q-mt-lg q-mx-lg text-weight-light">
+        <div class="q-caption hello text-center text-light q-mt-lg q-mx-lg text-weight-light">
           Just steps away from
           the Brooklyn Botanical Garden and the Brooklyn
           Museum, Medgar is in the midst of the borough’s cultural and
           economic renaissance.
+        </div>
+        <div class="q-caption q-my-md">
+          Sign Up
         </div>
       </div>
     </div>
@@ -56,7 +59,7 @@ background-size: cover;
 .mec-logo_splashScreen{
   border-radius: 10px;
   margin-top:175px;
-  height: 20vh;
+  height: 17vh;
   width: auto;
 }
 .window-height.row{

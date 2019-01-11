@@ -1,7 +1,7 @@
 <template>
   <q-page padding class="mainMenuScreen">
     <div class="q-subheading q-my-sm forceMed">
-      Welcome: Dr. Rudy Crew
+      Welcome: Daniel Alverez{{Name}}
     </div>
 
       <div class="row justify-around text-center">

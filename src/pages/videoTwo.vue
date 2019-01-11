@@ -8,10 +8,10 @@
     </div>
     <div class="text-center">
       <div class="q-headline" style="margin-top:15px;">
-          Dr. Rudy Crew
+           Daniel Alverez
       </div>
       <div class="" style="margin-bottom:20px;">
-        Class of YYYY {{Year}}
+        Class of 2019 {{Year}}
       </div>
     </div>
 
@@ -102,6 +102,15 @@
            rounded
            @click="$router.push('/mainMenu')"
          />
+         <q-btn
+           color="tertiary"
+           size="xl"
+           label="Load More"
+           class=" spaceForce fiddleButton spacialRes "
+           rounded
+           style="width:227.5px;"
+           @click="$router.push('/mainMenu')"
+         />
        </q-tab-pane>
      </q-tabs>
 
@@ -133,7 +142,9 @@ export default {
    justify-content: center;
    height: 65px;
  }
-
+.spacialRes{
+  font-size:14
+}
 .avatar2{
   margin-left:-40px;
 }
@@ -148,15 +159,15 @@ export default {
 
   .messy2.q-chip-floating{
     top:auto !important;
-    right:auto !important;
+    right:100px !important;
     bottom: 0;
-    left:175px;
     border-radius: 100%;
   }
 
-  .{
-    width: auto;
-    height: 150px;
+  .avatar2{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
   }
 
   .image-size-2{
