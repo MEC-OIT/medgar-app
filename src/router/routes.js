@@ -4,7 +4,7 @@ import MainMenu from 'pages/mainMenu'
 import Podcast from 'pages/podcast'
 import VideoPod from 'pages/videoPod'
 import VideoTwo from 'pages/videoTwo'
-import TestPage1 from 'pages/testPage1'
+import VideoThree from 'pages/videoThree'
 
 
 
@@ -24,10 +24,10 @@ const routes = [
       ],
     },
     {
-      path: '/testPage1',
+      path: '/videoThree',
       component: () => import('layouts/testPageLayout.vue'),
       children: [
-        { path: '', component: () => import('pages/testPage1.vue') }
+        { path: '', component: () => import('pages/videoThree.vue') }
       ],
     },
     {
