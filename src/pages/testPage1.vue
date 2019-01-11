@@ -19,6 +19,7 @@
             <q-rating size='12px' v-model="stars" :max="5"  />
           </q-card-title>
           </q-card>
+          
         </p>
 
         <div class="row justify-center" style="margin-bottom: 50px;">
