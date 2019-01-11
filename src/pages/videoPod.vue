@@ -10,12 +10,13 @@
     <q-card inline class="q-ma-sm windowPls">
           <q-card-main>
             <q-card-media>
-              <img src="statics/images/mec_logo.png" height=""width="">
-            </q-card-media>
-            <q-card-title>
               <div class="">
                   President Dr. Rudy Crew meets with Former President of South Africa Kgalema Motlanthe
               </div>
+              <img src="statics/images/mec_logo.png" height=""width="">
+            </q-card-media>
+            <q-card-title>
+
               <q-rating slot="subtitle" v-model="stars" :max="5" />
               <div slot="right" class="row items-center">
                 <q-icon name="headset_mic" /> 200 Listens
