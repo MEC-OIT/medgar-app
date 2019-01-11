@@ -4,19 +4,22 @@
   <q-btn @click="$router.push('/login')">
 
 
-    <div class="window-height row justify-center items-center">
+    <div class="window-height row justify-center ">
 
         <img class="mec-logo_splashScreen " src="statics/images/mec_logo_quick_cheat.png" alt="">
 
 
       <div class="text-white">
-        <div class="q-subheading text-center q-mt-xl text-weight-bold">
-          Medgar Evers College, CUNY
+        <div class="pushMe">
+          <div class="q-subheading text-center q-mt-xl text-weight-bold">
+            Medgar Evers College, CUNY
+          </div>
+          <div class="q-caption text-weight-light  text-center q-mt-sm q-mb-lg">
+            STUDENT LIFE AT YOUR <br>
+            FINGERTIPS
+          </div>
         </div>
-        <div class="q-caption text-weight-light text-center q-mt-sm q-mb-lg">
-          STUDENT LIFE AT YOUR <br>
-          FINGERTIPS
-        </div>
+
         <div class="q-caption hello text-center q-mt-lg q-mx-lg">
           Our Central Brooklyn campus, just steps away from
           the Brooklyn Botanical Garden and the Brooklyn
@@ -40,6 +43,9 @@ export default {
 </script>
 
 <style>
+.pushMe{
+
+}
 .splashScreen{
 background: url('/statics/images/splashScreen2.jpeg') no-repeat;
 height: 100%;
@@ -49,7 +55,7 @@ background-size: cover;
 
 .mec-logo_splashScreen{
   border-radius: 10px;
-  margin-bottom:-30vh;
+  margin-top:125px;
   height: 20vh;
   width: auto;
 }
@@ -63,6 +69,10 @@ background-size: cover;
 }
 .q-caption.hello {
   text-transform: none;
+  margin-bottom:90px;
 }
 
+.smackMeDown{
+
+}
 </style>
