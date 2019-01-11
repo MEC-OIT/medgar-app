@@ -4,7 +4,7 @@ import MainMenu from 'pages/mainMenu'
 import Podcast from 'pages/podcast'
 import VideoPod from 'pages/videoPod'
 import VideoTwo from 'pages/videoTwo'
-import VideoTwo from 'pages/testPage1'
+import TestPage1 from 'pages/testPage1'
 
 
 
