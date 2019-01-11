@@ -5,7 +5,7 @@
       <h1 class="q-headline q-mx-nd">PODCASTS</h1>
     </div>
 <div class="q-my-sm q-mx-sm ">
-  President Dr. Rudy Crew meets with Former President of South Africa Kgalema Motlanthe
+
 </div>
     <q-card inline class="q-ma-sm windowPls">
           <q-card-main>
@@ -13,7 +13,9 @@
               <img src="statics/images/mec_logo.png" height=""width="">
             </q-card-media>
             <q-card-title>
-
+              <div class="">
+                  President Dr. Rudy Crew meets with Former President of South Africa Kgalema Motlanthe
+              </div>
               <q-rating slot="subtitle" v-model="stars" :max="5" />
               <div slot="right" class="row items-center">
                 <q-icon name="headset_mic" /> 200 Listens
