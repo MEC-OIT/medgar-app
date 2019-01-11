@@ -44,7 +44,7 @@ export default {
 
 <style>
 .pushMe{
-
+margin-top:-20px;
 }
 .splashScreen{
 background: url('/statics/images/splashScreen2.jpeg') no-repeat;
@@ -69,7 +69,7 @@ background-size: cover;
 }
 .q-caption.hello {
   text-transform: none;
-  margin-bottom:90px;
+  margin-top:55px;
 }
 
 .smackMeDown{
