@@ -15,7 +15,19 @@
         <div class="row justify-center" style="margin-bottom: 50px;">
           <q-spinner-dots slot="message" :size="40" />
         </div>
+
+        <q-card inline class="q-ma-sm">
+          <q-card-media>
+            <img class=""src="statics/images/img2c.png">
+          </q-card-media>
+          <q-card-title>
+            Courgas...
+          <q-rating size='12px' v-model="stars" :max="5"  />
+        </q-card-title>
+      </q-card>
       </q-infinite-scroll>
+
+
     </div>
   </q-page>
 </template>
