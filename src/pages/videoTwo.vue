@@ -94,23 +94,19 @@
 
             </div>
          </div>
-         <q-btn
-           color="tertiary"
-           size="xl"
-           label="Load More"
-           class="full-width fiddleButton"
-           rounded
-           @click="$router.push('/mainMenu')"
-         />
-         <q-btn
-           color="tertiary"
-           size="xl"
-           label="Load More"
-           class=" spaceForce fiddleButton spacialRes "
-           rounded
-           style="width:227.5px;"
-           @click="$router.push('/mainMenu')"
-         />
+
+         <div class="text-center">
+           <q-btn
+             color="tertiary"
+             size="xl"
+             label="Load More"
+             class=" spaceForce fiddleButton spacialRes "
+             rounded
+             style="width:227.5px;"
+             @click="$router.push('/mainMenu')"
+           />
+         </div>
+
        </q-tab-pane>
      </q-tabs>
 
@@ -143,7 +139,7 @@ export default {
    height: 65px;
  }
 .spacialRes{
-  font-size:14
+  font-size:14px !important;
 }
 .avatar2{
   margin-left:-40px;
